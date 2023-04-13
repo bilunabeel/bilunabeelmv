@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/bilunabeelmv/precache-manifest.c4dabce10ba98d130c3492bcf9a9cc61.js"
+  "/bilunabeelmv/precache-manifest.14e5226c58f53eb83e6c8a3394c0aa9c.js"
 );
 
 workbox.clientsClaim();
